@@ -3,4 +3,8 @@ This is simple little timer application when a user visits our application site 
 A user can posit at any time by clicking on the pause button right there and then resume it by clicking
 on play again.
 
+## Setting up project files
+Project is going to consist of index.html, index.js.
+To index.html file has added simple boilerplate. 
+
 
