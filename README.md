@@ -5,6 +5,15 @@ on play again.
 
 ## Setting up project files
 Project is going to consist of index.html, index.js.
-To index.html file has added simple boilerplate. 
+To index.html file has added simple boilerplate.
+
+## Possible implementation
+1. Event listener to watch for a click on "start" button
+2. Draw a full border around the timer
+3. Start counting down the timer
+4. Each time the timer counts down, update the border
+5. Each time the timer counts down, update the text
+6. If counted down adn timer reaches 0 --> reset the border
+7. Reset internal timer to get rady for another run
 
 
