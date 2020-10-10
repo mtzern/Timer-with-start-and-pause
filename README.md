@@ -13,7 +13,7 @@ To index.html file has added simple boilerplate.
 3. Start counting down the timer
 4. Each time the timer counts down, update the border
 5. Each time the timer counts down, update the text
-6. If counted down adn timer reaches 0 --> reset the border
+6. If counted down and timer reaches 0 --> reset the border
 7. Reset internal timer to get rady for another run
 
 
