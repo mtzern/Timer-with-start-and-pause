@@ -4,8 +4,7 @@ A user can posit at any time by clicking on the pause button right there and the
 on play again.
 
 ## Setting up project files
-Project is going to consist of index.html, index.js.
-To index.html file has added simple boilerplate.
+Project is going to consist of index.html, index.js, timer.js and style.css.
 
 ## Possible implementation
 1. Event listener to watch for a click on "start" button
